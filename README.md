@@ -22,6 +22,6 @@ The Advanced To-Do List is a simple yet powerful web application that allows use
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 
 ### Installation
-1. Clone the repository:https://github.com/MKarthikeyan02/Todo-list.git
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/advanced-todo-list.git
+   https://github.com/MKarthikeyan02/Todo-list.git
